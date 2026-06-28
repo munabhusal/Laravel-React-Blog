@@ -6,11 +6,11 @@ React folder within this project holds the code require to render the fronend po
 
 Use the mentined code in gitbash
 ```bash
-git clone https://github.com/munabhusal/Laravel_React.git
+git clone https://github.com/munabhusal/Laravel-React-Blog.git
 ```
 
 ```bash
-cd Laravel_React
+cd Laravel-React-Blog
 ```
 
 ## Rendering
